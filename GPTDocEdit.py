@@ -4,7 +4,7 @@ import urllib.request, json
 import aspose.words as aw
 import numpy as np
 import glob
-
+import datetime as dt
 
 def gptRespond(prompt, t = 1, c = 1, GPT = 3):
     #Place personal key here in string format
