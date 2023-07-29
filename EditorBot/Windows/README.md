@@ -1,4 +1,5 @@
-# ***GPT Word Editor, by JOHN VAHEDI 7/29/2023***
+# ***GPT Word Editor***
+***by John Vahedi 7/29/2023***
 
 ## Purpose:
 
