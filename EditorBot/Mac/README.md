@@ -15,9 +15,9 @@
 
 ## Instructions:
 
-***AT THIS TIME NOT SUPPORTED FOR MAC DIRECTLY***
+***AT THIS TIME NOT SUPPORTED FOR MAC DIRECTLY. Instead...***
 
-Instead, try to find a virtual machine to run Windows on:
+find a virtual machine to run Windows on:
 
 1. Log on to Zed or any other RAND hosted Windows Server machines. 
 
