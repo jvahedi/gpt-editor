@@ -15,6 +15,19 @@
 
 ## Instructions:
 
-***AT THIS TIME NOT SUPPORTED FOR MAC***
+***AT THIS TIME NOT SUPPORTED FOR MAC DIRECTLY***
+Instead, try to find a virtual machine to run Windows on:
 
-Try to find a virtual machine to run windows on and try there. 
+1. Log on to Zed or any other RAND hosted Windows Server machines. 
+
+2. Access the zip or files there locally. 
+   Include as many documents in ".docx" format as you like by 
+   dropping them into the "Windows" folder within "EditorBot."
+
+3. In the search bar, look for and run "Anconda Prompt."
+   Navogate to the files directory within this commnand line.
+
+4. Type in "ClickMe.bat" and press enter. The edited files should
+   appear in under 30 seconds. 
+
+
