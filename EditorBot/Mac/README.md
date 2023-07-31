@@ -24,7 +24,7 @@ Instead, try to find a virtual machine to run Windows on:
    Include as many documents in ".docx" format as you like by 
    dropping them into the "Windows" folder within "EditorBot."
 
-3. In the search bar, look for and run "Anconda Prompt."
+3. In the search bar, look for and run "Anconda Powershell Prompt."
    Navigate to the files' directory within this commnand line.
 
 4. Type in "ClickMe.bat" and press enter. The edited files should
