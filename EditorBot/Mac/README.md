@@ -25,7 +25,7 @@ Instead, try to find a virtual machine to run Windows on:
    dropping them into the "Windows" folder within "EditorBot."
 
 3. In the search bar, look for and run "Anconda Prompt."
-   Navogate to the files directory within this commnand line.
+   Navigate to the files' directory within this commnand line.
 
 4. Type in "ClickMe.bat" and press enter. The edited files should
    appear in under 30 seconds. 
