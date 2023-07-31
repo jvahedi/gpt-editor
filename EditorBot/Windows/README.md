@@ -17,9 +17,9 @@
 
 1. Read this Document. (NICE!!!)
 
-2. Drop as many Microsoft Word Documents in this folder as needed
-	A)The file must be in a ".docx" format.
-	B)Please keep document length under 2 pages at this time.
+2. Drop as many Microsoft Word Documents in this folder as needed.
+	A. The file must be in a ".docx" format.
+	B. Please keep document length under 2 pages at this time.
 
 3. Double click the obvious "ClickMe.bat" file, and Presto! 
 	Wait while a new edited file appears in the same directory. 
