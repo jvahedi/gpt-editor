@@ -22,7 +22,7 @@
 - [ ] (A) The file must be in a ".docx" format.
 - [ ] (B) Please keep document length under 2 pages at this time.
 
-3. Open the Config.txt file and:
+3. Open the Config.txt file:
 - [ ] (A) paste in your own personal access key value. (IMPORTANT!!!)
 - [ ] (B) you can also change other parameters here as well. 
 	
