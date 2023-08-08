@@ -24,6 +24,7 @@ find a virtual machine to run Windows on:
 2. Access the zip or files there locally. 
    Include as many documents in ".docx" format as you like by 
    dropping them into the "Windows" folder within "EditorBot."
+   Update config.txt file with your own personal key. 
 
 3. In the search bar, look for and run "Anconda Powershell Prompt."
    Navigate to the files' directory within this command line.
