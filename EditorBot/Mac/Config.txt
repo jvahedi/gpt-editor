@@ -1,0 +1,4 @@
+key: 8febe9879fbe468391391b36ae051eda
+temp: 2
+top_c: .7
+GPT: 3
