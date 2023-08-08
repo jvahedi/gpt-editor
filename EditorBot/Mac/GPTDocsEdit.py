@@ -1,10 +1,10 @@
+#!pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org aspose-words
+
 import urllib.request, json
 import aspose.words as aw
 import numpy as np
 import glob
 from datetime import datetime as dt
-
-#!pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org aspose-words
 
 def config():
     config = []
