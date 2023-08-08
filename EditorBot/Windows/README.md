@@ -15,12 +15,18 @@
 
 ## Instructions:
 
-1. Read this Document. (NICE!!!)
+1. Read this Document. 
+	(NICE!!!)
 
 2. Drop as many Microsoft Word Documents in this folder as needed.
 	(A) The file must be in a ".docx" format.
 	(B) Please keep document length under 2 pages at this time.
 
-3. Double click the obvious "ClickMe.bat" file, and Presto! 
+3. Open the Config.txt file and:
+	(A) paste in your own personal access key value. (IMPORTANT!!!)
+	(B) you can also change other parameters here as well. 
+	
+
+4. Double click the obvious "ClickMe.bat" file, and Presto! 
 	Wait while a new edited file appears in the same directory. 
 	Should take less than 30 seconds. 
