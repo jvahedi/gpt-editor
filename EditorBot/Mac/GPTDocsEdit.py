@@ -1,15 +1,29 @@
-#!pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org aspose-words
-
 import urllib.request, json
 import aspose.words as aw
 import numpy as np
 import glob
 from datetime import datetime as dt
 
+#!pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org aspose-words
+
+def config():
+    config = []
+    params = []
+    with open('Config.txt') as f:
+        for line in f:
+            split = line.split()
+            config.append(split)
+        params.append(config[0][-1])
+        params.append(float(config[1][-1]))
+        params.append(float(config[2][-1]))
+        params.append(int(config[3][-1]))
+    return params
+
+vals = config()
+print(vals)
 def gptRespond(prompt, t = 1, c = 1, GPT = 3):
     #Place personal key here in string format
-    KEY = '8febe9879fbe468391391b36ae051eda'
-    #KEY = 'INSERT_KEY_HERE'
+    KEY = vals[0]
 
     try:
         url = "https://apigw.rand.org/openai/RAND/inference/deployments/gpt-35-turbo-v0301-base/chat/completions?api-version=2023-03-15-preview"
@@ -45,7 +59,7 @@ def gptRespond(prompt, t = 1, c = 1, GPT = 3):
     except Exception as e:
         print(e)
 
-def gptMergeDoc(temp =2, top_c = .7, GPT =3):
+def gptMergeDoc(temp = vals[1], top_c = vals[2], GPT = vals[3]):
     ##License section
     # editWordLicense = aw.License()
     # editWordLicense.set_license("Aspose.Word.lic")
