@@ -16,11 +16,11 @@
 ## Instructions:
 
 1. Read this Document. 
-	- (NICE!!!)
+- [ ] (NICE!!!)
 
 2. Drop as many Microsoft Word Documents in this folder as needed.
-	- (A) The file must be in a ".docx" format.
-	- (B) Please keep document length under 2 pages at this time.
+- [ ] (A) The file must be in a ".docx" format.
+- [ ]  (B) Please keep document length under 2 pages at this time.
 
 3. Open the Config.txt file and:
 	- (A) paste in your own personal access key value. (IMPORTANT!!!)
