@@ -8,8 +8,7 @@ import datetime as dt
 
 def gptRespond(prompt, t = 1, c = 1, GPT = 3):
     #Place personal key here in string format
-    KEY = '8febe9879fbe468391391b36ae051eda'
-    #KEY = 'INSERT_KEY_HERE'
+    KEY = 'INSERT_KEY_HERE'
 
     try:
         url = "https://apigw.rand.org/openai/RAND/inference/deployments/gpt-35-turbo-v0301-base/chat/completions?api-version=2023-03-15-preview"
