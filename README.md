@@ -11,4 +11,12 @@ You can download the `"EditorBot"` **zip file** to get a portably executable ver
 
 Additional general functions and visualizations are **available** through the **Jupyter** notebook. 
 
+## Parameter intuition (optional)
+
+* **Play with sampling knobs:**  
+  https://www.desmos.com/calculator/z65nqrjad4  
+  Move the _temperature_ and _top-p_ sliders to see how they reshape the probability curve.
+
+* **Slide deck:** quick-start guide + prompt/parameter tips (`Presentation GPT as Proto-Editor.pdf` in the repo).
+
 🎉 Have fun!
