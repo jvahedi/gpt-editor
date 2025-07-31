@@ -7,12 +7,9 @@ This implementation is only _Proof of Concept_ at this time. Has limitations and
 
 ## Getting started
 
-You can download the "EditorBot" **zip file** to get a portably executable version of this tool. 
+You can download the "EditorBot" **zip file** to get a portably executable version of this tool.  
+**Full step-by-step instructions are included inside the zip (see `Windows/README.md`).**
 
-Additionally, more general functions and visualizations are availble through the jupyter notebook. 
+Additionally, more general functions and visualizations are **available** through the **Jupyter** notebook. 
 
-
-Have fun!
-
-
-
+🎉 Have fun!
