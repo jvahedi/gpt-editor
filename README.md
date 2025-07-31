@@ -7,9 +7,11 @@ This implementation is only _Proof of Concept_ at this time. Has limitations and
 
 ## Getting started
 
-You can download the `"EditorBot"` **zip file** to get a portably executable version of this tool; full instructions inside. 
+You can download the `"EditorBot"` **zip file** to get a portably executable version of this tool; full instructions inside.
 
-Additional general functions and visualizations are **available** through the **Jupyter** notebook. 
+> **On macOS?** The package itself is Windows-only. See the `macOS/README.md` folder for a quick way to run it on the network Windows server.
+
+Additional general functions and visualizations are **available** through the **Jupyter** notebook.
 
 ## Parameter intuition (optional)
 
